@@ -43,3 +43,7 @@ GUI dashboard for inspection
 
 Integration with production-line alert systems
 
+
+Example of Result -
+
+<img width="1241" height="495" alt="image" src="https://github.com/user-attachments/assets/2db070e4-68a7-444d-bb3e-72397e03a775" />
